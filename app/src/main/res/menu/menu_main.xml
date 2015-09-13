@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Main">
+    <item android:id="@+id/action_goToMap" android:title="@string/action_goToMap"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_clearRecords" android:title="@string/action_clearRecords"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_goToInternetStatus" android:title="@string/action_goToInternetStatus"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>
